@@ -7,3 +7,4 @@ def dodaj (a, b):
 def odejmij(a, b):
     return a - b
 >>>>>>> feature-KamilBaldy
+Testowy commit

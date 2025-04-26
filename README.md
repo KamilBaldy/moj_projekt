@@ -10,3 +10,8 @@ opis projektu
 ---
 
 [Repozytorium GitHub](https://github.com/KamilBaldy/moj_projekt)
+
+---
+
+### Ignorowane pliki
+- notatki.txt dodane do .gitignore i nie jest sledzony przez GIT
